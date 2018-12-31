@@ -1,2 +1,2 @@
-ini hello 1 baris 1
+ini hello 1 baris 
 ini hello 1 baris ke 2 
