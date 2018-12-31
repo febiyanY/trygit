@@ -1,1 +1,2 @@
 ini hello 2 baris 1
+ini hello 2 baris 2
